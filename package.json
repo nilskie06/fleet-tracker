@@ -1,0 +1,43 @@
+{
+  "name": "@ph-itdev/fleet-tracker",
+  "version": "0.2026.0628",
+  "description": "Track fleet vehicles with GPS coordinates, speed, heading, and geofencing for transportation logistics management.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "type": "commonjs",
+  "bin": {
+    "fleet-tracker": "bin/cli.js"
+  },
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "bin/",
+    "example/",
+    "README.md"
+  ],
+  "scripts": {
+    "test": "node test.js",
+    "lint": "echo 'lint ok'",
+    "playground": "node bin/cli.js playground"
+  },
+  "keywords": [
+    "logistics",
+    "automation",
+    "shipping",
+    "supply-chain",
+    "fleet"
+  ],
+  "author": "@ph-itdev",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nilskie06/fleet-tracker.git"
+  },
+  "homepage": "https://github.com/nilskie06/fleet-tracker#readme",
+  "bugs": {
+    "url": "https://github.com/nilskie06/fleet-tracker/issues"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
