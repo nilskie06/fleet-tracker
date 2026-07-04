@@ -1,6 +1,6 @@
 {
   "name": "@ph-itdev/fleet-tracker",
-  "version": "0.2026.630",
+  "version": "0.2026.631",
   "description": "Track fleet vehicles with GPS coordinates, speed, heading, and geofencing for transportation logistics management.",
   "main": "index.js",
   "types": "index.d.ts",
