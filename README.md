@@ -28,6 +28,10 @@ MIT
 
 ## Changelog
 
+### v0.2026.632 (2026-07-05)
+- Added TypeScript type hints
+- Daily auto-update
+
 ### v0.2026.631 (2026-07-04)
 - Added utility helpers (uuid, retry, chunk, clamp)
 - Daily auto-update
