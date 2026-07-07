@@ -28,6 +28,10 @@ MIT
 
 ## Changelog
 
+### v0.2026.633 (2026-07-07)
+- Added input validation
+- Daily auto-update
+
 ### v0.2026.632 (2026-07-05)
 - Added TypeScript type hints
 - Daily auto-update
